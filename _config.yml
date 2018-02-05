@@ -18,8 +18,8 @@ email: lho@trifork.com
 description: >- # this means to ignore newlines until "baseurl:"
     Study group for Trifork-employees at Dokk1, Aarhus. 
     The purpose is to read scientific papers, discuss and hopefully learn a little.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/trifork_dokk1_studygroup" # the subpath of your site, e.g. /blog
+url: "https://lassehoj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lhojgaard
 github_username:  lassehoj
 future: true
