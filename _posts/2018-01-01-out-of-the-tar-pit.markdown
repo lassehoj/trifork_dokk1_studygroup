@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Moseley & Marks - “Out of the Tar Pit”"
-date:   2018-01-04
+title:  "Moseley & Marks - Out of the Tar Pit"
+date:   2018-01-04 13:00:00
 categories: dokk1 studygroup
 ---
 

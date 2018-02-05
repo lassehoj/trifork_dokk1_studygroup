@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dokk1 Studiegruppe
+title: Dokk1 Study Group
 email: lho@trifork.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Læsegruppe for Trifork-ansatte på Dokk1. Formålet er at læse videnskabelige artikler,
-    diskutere dem, og forhåbentlig blive klogere.
+    Study group for Trifork-employees at Dokk1, Aarhus. 
+    The purpose is to read scientific papers, discuss and hopefully learn a little.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lhojgaard
 github_username:  lassehoj
+future: true
 
 # Build settings
 markdown: kramdown
