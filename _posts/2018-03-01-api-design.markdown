@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jasmin Blanchette - The Little Manual of API Design "
+title:  "Jasmin Blanchette - The Little Manual of API Design"
 date:   2018-03-01 13:00:00
 categories: dokk1 studygroup
 published: true
