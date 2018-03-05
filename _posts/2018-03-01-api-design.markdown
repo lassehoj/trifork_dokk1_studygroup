@@ -26,4 +26,4 @@ And although the focus is on public APIs, there is no harm in applying the
 principles described here when writing application code or internal library
 code.
 
-[Link to paper](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
+[Link to paper](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
