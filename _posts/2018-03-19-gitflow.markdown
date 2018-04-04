@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gitflow: A successful Git branching model "
-date:   2018-04-15 13:00:00
+date:   2018-03-19 13:00:00
 categories: dokk1 studygroup
 published: true
 ---
