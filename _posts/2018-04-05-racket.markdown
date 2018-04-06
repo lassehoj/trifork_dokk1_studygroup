@@ -1,11 +1,26 @@
 ---
 layout: post
-title:  "Super 8 Languages for Making Movies"
-date:   2018-04-05 13:00:00
+title:  "A Programmable Programming Language"
+date:   2018-04-19 14:00:00
 categories: dokk1 studygroup
 published: true
 ---
 *Abstract:*
-The Racket doctrine tells developers to create languages (as libraries) to narrow the gap between the terminol- ogy of a problem domain and general programming constructs. This pearl illustrates this doctrine with the creation of a relatively simple domain-speci c language for editing videos. To produce the video proceedings of a conference, for example, video professionals traditionally use “non-linear” GUI editors to manually edit each talk, despite the repetitive nature of the process. As it turns out, the task of video editing naturally splits into a declarative phase and an imperative rendering phase at the end. Hence it is natural to create a functional-declarative language for the  rst phase, which reduces a lot of manual labor. The implementation of this user-facing DSL, dubbed Video, utilizes a second, internal DSL to implement the second phase, which is an interface to a general, low-level C library. Finally, we inject type checking into our Video language via another DSL that supports programming in the language of type formalisms. In short, the development of the video editing language cleanly demonstrates how the Racket doctrine naturally leads to the creation of language hierarchies, analogous to the hierarchies of modules found in conventional functional languages.
+In the ideal world, software developers would analyze each problem in the
+language of its domain and then articulate solutions in matching terms. They
+could thus easily communicate with domain experts and separate problem-specific
+ideas from the details of general-purpose languages and specific program design
+decisions.
 
-[Link to paper](https://www2.ccs.neu.edu/racket/pubs/icfp17-acf.pdf)
+In the real world, however, programmers use a mainstream programming language
+someone else picked for them. To address this conflict, they resort to—and on
+occasion build their own—domain-specific languages embedded in the chosen
+language (embedded domain-specific languages, or eDSLs). For example,
+JavaScript programmers employ jQuery for interacting with the Document Object
+Model and React for dealing with events and concurrency. As developers solve
+their problems in appropriate eDSLs, they compose these solutions into one
+system; that is, they effectively write multilingual software in a common host
+language.
+
+[Link to paper](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)
+
