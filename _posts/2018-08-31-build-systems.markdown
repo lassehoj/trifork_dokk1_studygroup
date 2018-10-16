@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Build Systems à la Carte"
+date:   2018-08-31 12:30:00
+categories: dokk1 studygroup
+published: true
+---
+*Abstract:*
+
+Build systems are awesome, terrifying — and unloved. They are used by every developer around the world, but are rarely the object of study. In this paper we offer a systematic, and executable, framework for developing and comparing build systems, viewing them as related points in landscape rather than as isolated phenomena. By teasing apart existing build systems, we can recombine their components, allowing us to prototype new build systems with desired properties.
+
+[Link to paper](https://www.microsoft.com/en-us/research/publication/build-systems-la-carte/)
